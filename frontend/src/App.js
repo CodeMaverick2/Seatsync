@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import SeatGrid from './SeatGrid';
 
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8080';
 
 let toastId = 0;
 
