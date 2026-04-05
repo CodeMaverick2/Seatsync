@@ -2,6 +2,8 @@
 
 DSA project for Advanced Trees course. Basically simulates a movie seat booking system like BookMyShow but the whole point is using Segment Tree and AVL Tree to make operations fast. Both trees serve different purposes and together cover everything in O(log n).
 
+Live Link - https://seatsync-seven.vercel.app/
+
 ---
 
 ## Setup
