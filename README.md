@@ -8,6 +8,8 @@ Live demo: https://seatsync-seven.vercel.app/
 
 ## Demo
 
+https://github.com/user-attachments/assets/bf7b5227-e9e5-4ffa-8346-02de71cf98a1
+
 <video src="Seatsyncd.mov" controls width="100%"></video>
 
 ---
