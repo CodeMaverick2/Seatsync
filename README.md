@@ -6,6 +6,10 @@ Live demo: https://seatsync-seven.vercel.app/
 
 [Project Report](ProjectReport.md)
 
+## Demo
+
+<video src="Seatsyncd.mov" controls width="100%"></video>
+
 ---
 
 ## Problem Statement
